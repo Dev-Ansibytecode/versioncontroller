@@ -10,5 +10,11 @@ namespace TestConsole
     {
         //Hello
         //Branch1 Update
+
+        public int BranchId { get; set; }
+        //Hello
+        void BranchHelloWorld() { }
+
+        public string BranchName { get; set; }
     }
 }
