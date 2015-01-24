@@ -8,6 +8,11 @@ namespace TestConsole
 {
     public class Class1
     {
+        public int MasterId { get; set; }
         //Hello
+        void MasterHelloWorld() { }
+
+        public string MasterName { get; set; }
     }
+
 }
