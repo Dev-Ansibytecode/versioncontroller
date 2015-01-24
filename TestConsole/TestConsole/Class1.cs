@@ -9,5 +9,6 @@ namespace TestConsole
     public class Class1
     {
         //Hello
+        //Branch1 Update
     }
 }
